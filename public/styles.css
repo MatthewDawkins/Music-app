@@ -1,0 +1,28 @@
+html {
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(1deg, #84142d  1%, #4d4c7d  99%);
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed;
+  min-width: 100vw;
+
+}
+
+.searchbar {
+
+}
+
+/* HEADER */
+
+.header {
+  font-size: 2rem;
+  color: #ededed;
+  font-weight: 700;
+  font-style: italic;
+  border-bottom: 1px black solid;
+}
