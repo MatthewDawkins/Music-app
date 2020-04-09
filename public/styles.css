@@ -13,9 +13,6 @@ html {
 
 }
 
-.searchbar {
-
-}
 
 /* HEADER */
 
@@ -25,4 +22,17 @@ html {
   font-weight: 700;
   font-style: italic;
   border-bottom: 1px black solid;
+}
+
+.abc {
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    width: 30%;
 }
