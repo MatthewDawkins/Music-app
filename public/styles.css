@@ -33,12 +33,20 @@ hr {
 /* SIDEBAR */
 
 .sidebar {
+  position: fixed;
   min-height: 100vh;
   background-color: #000;
-  max-width: 15%;
+  min-width: 9%;
   border-right: solid #ededed 1px;
 }
 
 .sidebar-content {
-  padding-top: 45%;
+  padding-top: 65%;
+}
+
+/* HOME */
+
+.home {
+  margin-left: 25vh;
+  padding-top: 10vh;
 }
